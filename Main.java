@@ -12,6 +12,6 @@ public class Main{
 
         System.out.println(car.brand + "'" + car.model + "' " + car1.year + " has " + car1.doors + " doors");
         System.out.println(moto1.brand + "'" + moto.model + "' " + moto.year + " has " + moto1.wheels + " wheels");
-       
+
     }
 }
